@@ -1,3 +1,8 @@
+
+<div align="center">
+<img width="400" alt="App Icon QR" src="https://github.com/user-attachments/assets/d14115ef-9f52-4c52-9726-536ece9bb99e" />
+</div>
+
 # QR Reader 📷 (Flutter)
 
 A **QR / Barcode reader app** built with **Flutter**, featuring scan history, quick actions, and **secure Google Maps SDK integration** on Android and iOS — without committing secrets to source control.
@@ -7,6 +12,10 @@ This project demonstrates camera usage, platform configuration, and best practic
 ---
 
 ## 📱 Overview
+
+<div align="center">
+<img width="400" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-19 at 16 05 32" src="https://github.com/user-attachments/assets/b963e766-f7e9-4cf8-b7d6-d9ad7c2efede" />
+</div>
 
 **QR Reader** allows users to:
 - Scan **QR codes and barcodes**
